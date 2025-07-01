@@ -1,0 +1,6 @@
+# ไฟล์/โฟลเดอร์ที่ไม่อยากให้ Git track
+node_modules/
+.env
+*.log
+__pycache__/
+.DS_Store
